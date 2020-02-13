@@ -1,6 +1,6 @@
 {
   "name": "react-native-picker-kun",
-  "version": "4.3.10",
+  "version": "4.3.11",
   "description": "A Native Picker with high performance. Powerd by Kun Yang",
   "main": "index.js",
   "types": "index.d.ts",
