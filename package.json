@@ -1,7 +1,7 @@
 {
   "name": "react-native-picker",
-  "version": "4.3.7",
-  "description": "A Native Picker with high performance.",
+  "version": "4.3.8",
+  "description": "A Native Picker with high performance. Powerd by Kun Yang",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:beefe/react-native-picker.git"
+    "url": "git@github.com:mailtokun/react-native-picker.git"
   },
-  "author": "zooble",
+  "author": "Kun Yang",
   "license": "MIT",
-  "homepage": "https://github.com/beefe/react-native-picker"
+  "homepage": "https://github.com/mailtokun/react-native-picker"
 }
