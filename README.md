@@ -50,7 +50,7 @@
 #### Step 1 - install
 
 ```javascript
-	npm install react-native-picker --save
+	npm install react-native-picker-kun --save
 ```
 
 #### Step 2 - link
@@ -62,7 +62,7 @@
 #### Step 3 - import and use in project
 
 ```javascript
-import Picker from 'react-native-picker';
+import Picker from 'react-native-picker-kun';
 let data = [];
 for(var i=0;i<100;i++){
     data.push(i);
@@ -94,10 +94,10 @@ target 'YourTarget' do
     'Core',
     ...
     ]
-    pod 'Picker', :path => '../YOUR_REACT_NATIVE_PROJECT/node_modules/react-native-picker'
+    pod 'Picker', :path => '../YOUR_REACT_NATIVE_PROJECT/node_modules/react-native-picker-kun'
 end
 ```
-After you have updated the `Podfile` of the existing app, you can install `react-native-picker` like below:
+After you have updated the `Podfile` of the existing app, you can install `react-native-picker-kun` like below:
 ``` bash
 $ pod install
 ```
@@ -194,4 +194,4 @@ pickerData = [
 ]
 ```
 
-### For pure javascript version -> [v3.0.5](https://github.com/beefe/react-native-picker/tree/pure-javascript-version)  
+### For pure javascript version -> [v3.0.5](https://github.com/beefe/react-native-picker-kun/tree/pure-javascript-version)  
